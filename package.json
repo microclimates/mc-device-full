@@ -1,0 +1,23 @@
+{
+  "name": "mc-device-full",
+  "version": "1.0.0",
+  "description": "Microclimates device - full example",
+  "keywords": [
+    "microclimates",
+    "iot"
+  ],
+  "license": "MIT",
+  "microclimates-device": {
+    "product": "Your product name",
+    "manufacturer": "Your company name",
+    "url": "Company or product URL (optional)",
+    "privacy-policy": {
+      "url": "https://www.microclimates.com/device-privacy-policy",
+      "accepted": "xx/xx/xxxx"
+    },
+    "security-agreement": {
+      "url": "https://www.microclimates.com/device-security-agreement",
+      "accepted": "xx/xx/xxxx"
+    }
+  }
+}
